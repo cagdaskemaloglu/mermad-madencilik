@@ -1,0 +1,224 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "activities": "Activities",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Get a Quote"
+  },
+  "hero": {
+    "badge": "Operating Across Turkey",
+    "line1": "THE POWER &",
+    "line2": "VALUE OF THE",
+    "line3": "UNDERGROUND",
+    "desc": "MERMAD Mining extracts Turkey's rich mineral resources through the safest, most sustainable methods — creating value for the national economy and global markets.",
+    "btnActivities": "Our Activities",
+    "btnContact": "Get in Touch",
+    "scroll": "Discover"
+  },
+  "stats": {
+    "experience": "Years of Experience",
+    "sites": "Active Sites",
+    "capacity": "Tons Annual Capacity",
+    "staff": "Expert Personnel"
+  },
+  "about": {
+    "tag": "Who We Are",
+    "title1": "Bridging Turkey's",
+    "title2": "Underground",
+    "title3": "Wealth to the World",
+    "p1": "MERMAD Mining is an experienced mining company conducting exploration, extraction, and processing operations across various regions of Turkey. We harness Anatolia's rich mineral potential with modern technology and a team of experts.",
+    "p2": "Since our founding, we have operated with a commitment to safe working environments, environmental awareness, and contributing to local employment.",
+    "link": "Learn More",
+    "pillar1Title": "Safety First",
+    "pillar1Desc": "Occupational health and safety is our top priority. We work toward a zero-accident target.",
+    "pillar2Title": "Environmental Responsibility",
+    "pillar2Desc": "We protect nature in everything we do, restoring sites through rehabilitation programs.",
+    "pillar3Title": "Industry Standards",
+    "pillar3Desc": "We fully comply with international mining standards and Turkish regulations."
+  },
+  "services": {
+    "tag": "What We Do",
+    "title": "End-to-End Mining Services",
+    "link": "See All Activities",
+    "s1Title": "Mineral Exploration",
+    "s1Desc": "We identify mineral potential through geological surveys, seismic research, and drilling programs.",
+    "s2Title": "Open Pit & Underground Mining",
+    "s2Desc": "We carry out safe and efficient extraction using both open-pit and underground methods.",
+    "s3Title": "Ore Processing",
+    "s3Desc": "We convert raw material into high-value products through crushing, grinding, flotation, and beneficiation.",
+    "s4Title": "Environmental Management",
+    "s4Desc": "We protect nature through environmental impact assessment, waste management, and site rehabilitation.",
+    "s5Title": "Technical Consultancy",
+    "s5Desc": "We provide comprehensive consultancy in mining engineering, feasibility, and project management.",
+    "s6Title": "Occupational Safety",
+    "s6Desc": "We target zero accidents through risk assessment, safety training, and emergency response planning."
+  },
+  "map": {
+    "tag": "Our Operating Regions",
+    "title1": "A Strong Presence",
+    "title2": "Across Turkey",
+    "label": "Map of Turkey"
+  },
+  "cta": {
+    "tag": "Let's Work Together",
+    "title1": "Looking for a",
+    "title2": "Reliable Partner",
+    "title3": "for Your Project?",
+    "desc": "Meet with our experienced team for your mining projects. We are happy to develop tailored solutions to meet your needs.",
+    "btnContact": "Get in Touch",
+    "btnProjects": "Our Projects"
+  },
+  "footer": {
+    "desc": "We bring Turkey's underground riches to the surface. Safe, sustainable, and responsible mining.",
+    "pages": "Pages",
+    "activities": "Our Activities",
+    "actList": ["Mineral Exploration", "Mining Extraction", "Ore Processing", "Environmental Management", "Technical Consultancy"],
+    "contact": "Contact",
+    "address": "Mersin, Turkey",
+    "rights": "All rights reserved.",
+    "slogan": "Produced in Turkey, delivered to the world."
+  },
+  "about_page": {
+    "tag": "About Us",
+    "title1": "The Trusted Face",
+    "title2": "of Mining",
+    "desc": "Since 2010, we have been processing Turkey's mineral potential through safe and sustainable methods.",
+    "missionTag": "Our Mission",
+    "missionTitle": "Creating Value",
+    "missionDesc": "To contribute to Turkey's development by processing underground resources with modern technology, experienced human capital, and a sense of responsibility.",
+    "visionTag": "Our Vision",
+    "visionTitle": "Leading the Industry",
+    "visionDesc": "To become Turkey's most trusted mining company through our sustainability, innovation, and safety standards.",
+    "valuesTag": "Core Values",
+    "valuesTitle": "The Principles That Define Us",
+    "historyTag": "Our Journey",
+    "historyTitle": "Our History",
+    "values": [
+      {"title": "Safety", "desc": "Employee safety is our top priority in every activity we undertake."},
+      {"title": "Sustainability", "desc": "We act responsibly to pass on natural resources to future generations."},
+      {"title": "Quality", "desc": "Delivering products and services to international standards is our core commitment."},
+      {"title": "Team Spirit", "desc": "We achieve success through a strong team culture and a collaborative mindset."},
+      {"title": "Efficiency", "desc": "We aim to generate maximum value with minimum resource consumption."},
+      {"title": "Innovation", "desc": "We track technological advances and play a pioneering role in the sector."}
+    ],
+    "timeline": [
+      {"year": "2010", "event": "MERMAD Mining was founded and initial geological surveys commenced."},
+      {"year": "2012", "event": "First mining license obtained in Central Anatolia; production began."},
+      {"year": "2015", "event": "Ore processing plant commissioned; capacity tripled."},
+      {"year": "2018", "event": "ISO 14001 Environmental and ISO 45001 Occupational Safety certifications obtained."},
+      {"year": "2021", "event": "5 new sites opened; personnel count exceeded 100."},
+      {"year": "2024", "event": "International export agreements signed; annual capacity reached 500K tons."}
+    ]
+  },
+  "activities_page": {
+    "tag": "Our Activities",
+    "title1": "End-to-End",
+    "title2": "Mining Solutions",
+    "desc": "We manage all mining processes in an integrated manner — from exploration and extraction to environmental management and occupational safety.",
+    "scopeLabel": "Scope",
+    "activities": [
+      {
+        "title": "Mineral Exploration & Survey",
+        "desc": "We identify mineral potential through in-depth analysis of Turkey's geological structure.",
+        "details": ["Geological mapping", "Seismic surveys", "Drilling & sampling", "Reserve estimation", "Feasibility report"]
+      },
+      {
+        "title": "Open Pit Mining",
+        "desc": "We efficiently extract near-surface mineral deposits using open-pit methods with advanced equipment.",
+        "details": ["Stripping operations", "Blast planning", "Loading & haulage systems", "Slope stability", "Topographic monitoring"]
+      },
+      {
+        "title": "Ore Processing",
+        "desc": "We process extracted raw ore in our beneficiation plants to produce high market-value products.",
+        "details": ["Crushing & grinding", "Screening & classification", "Flotation", "Magnetic separation", "Filtration & drying"]
+      },
+      {
+        "title": "Environmental Management",
+        "desc": "Our ISO 14001-certified environmental management system minimizes the environmental impact of our operations.",
+        "details": ["Environmental Impact Assessment", "Water quality monitoring", "Dust & noise control", "Waste management", "Site rehabilitation"]
+      },
+      {
+        "title": "Technical Consultancy",
+        "desc": "We provide comprehensive technical consultancy for mining projects with our experienced engineering team.",
+        "details": ["Project management", "Mine planning", "Cost optimization", "Licensing processes", "Reporting"]
+      },
+      {
+        "title": "Occupational Health & Safety",
+        "desc": "We target zero accidents with safety practices compliant with ISO 45001 standards.",
+        "details": ["Risk assessment", "Safety training", "Personal protective equipment", "Emergency response plan", "Periodic audits"]
+      }
+    ]
+  },
+  "projects_page": {
+    "tag": "Projects",
+    "title1": "Across Every",
+    "title2": "Corner of Turkey",
+    "desc": "From the Aegean to the Black Sea, from Central Anatolia to the Southeast, we unlock Turkey's mineral wealth across our sites.",
+    "typeLabel": "Type",
+    "mineralLabel": "Mineral · Capacity",
+    "startLabel": "Start",
+    "projects": [
+      {"name": "Central Anatolia Chromite Site", "location": "Kayseri, Turkey", "status": "Active", "type": "Open Pit", "mineral": "Chromite Ore", "capacity": "80,000 t/year", "year": "2018", "desc": "One of the region's largest chromite operations, this project in the rich chrome deposits of Central Anatolia operates at an annual production capacity of 80,000 tons."},
+      {"name": "Aegean Boron Project", "location": "Kütahya, Turkey", "status": "Active", "type": "Open Pit + Processing", "mineral": "Boron Minerals", "capacity": "120,000 t/year", "year": "2020", "desc": "Operating in Turkey's boron deposits — which account for 70% of global reserves — our project exports high-purity boron products."},
+      {"name": "Black Sea Copper Exploration", "location": "Artvin, Turkey", "status": "Exploration", "type": "Mineral Exploration", "mineral": "Copper", "capacity": "TBD", "year": "2023", "desc": "Comprehensive geological surveys and drilling programs are ongoing in the metallogenically rich formations of the Black Sea region."},
+      {"name": "Southeast Phosphate Site", "location": "Mardin, Turkey", "status": "Development", "type": "Open Pit", "mineral": "Phosphate", "capacity": "150,000 t/year (target)", "year": "2022", "desc": "Infrastructure construction and equipment installation continue for this phosphate project, which will supply fertilizer raw materials to the agricultural sector."},
+      {"name": "Eastern Anatolia Iron Project", "location": "Erzincan, Turkey", "status": "Completed", "type": "Open Pit", "mineral": "Iron Ore", "capacity": "200,000 t/year", "year": "2014", "desc": "This site, operated between 2014 and 2021, produced a total of 1.2 million tons of iron ore for the steel industry. Site rehabilitation has been completed."},
+      {"name": "Aegean Trona Mine", "location": "Eskişehir, Turkey", "status": "Active", "type": "Underground", "mineral": "Trona (Soda Mineral)", "capacity": "60,000 t/year", "year": "2019", "desc": "Trona mineral — a key raw material for the glass and chemical industries — is extracted from underground galleries and refined in our processing plant."}
+    ],
+    "statuses": {
+      "Active": "Active",
+      "Exploration": "Exploration",
+      "Development": "Development",
+      "Completed": "Completed"
+    }
+  },
+  "contact_page": {
+    "tag": "Contact",
+    "title1": "Let's Work",
+    "title2": "Together",
+    "desc": "Get in touch with our team to request a quote, ask questions, or explore collaboration opportunities for your mining projects.",
+    "infoTitle": "Contact Information",
+    "address": "Address",
+    "addressVal": "Merkez, Mersin, Turkey",
+    "phone": "Phone",
+    "phoneVal": "+90 (312) 000 00 00",
+    "email": "Email",
+    "emailVal": "info@mermad.com.tr",
+    "hours": "Working Hours",
+    "hoursVal": "Mon–Fri: 08:00–18:00",
+    "emergencyTitle": "Emergency Contact",
+    "emergencyDesc": "Our 24/7 emergency line for site emergencies:",
+    "emergencyPhone": "+90 532 000 00 00",
+    "formTitle": "Send a Message",
+    "formName": "Full Name",
+    "formNamePh": "Your Full Name",
+    "formEmail": "Email",
+    "formEmailPh": "example@company.com",
+    "formPhone": "Phone",
+    "formPhonePh": "+90 5__ ___ __ __",
+    "formSubject": "Subject",
+    "formSubjectPh": "Select",
+    "formSubjectOpts": [
+      {"value": "quote", "label": "Quote Request"},
+      {"value": "consultancy", "label": "Consultancy"},
+      {"value": "partnership", "label": "Partnership"},
+      {"value": "employment", "label": "Employment"},
+      {"value": "other", "label": "Other"}
+    ],
+    "formMessage": "Your Message",
+    "formMessagePh": "Please provide information about your project, request, or questions...",
+    "formSubmit": "Send Message",
+    "formSending": "Sending...",
+    "formSuccess": "Message Sent!",
+    "formSuccessDesc": "We will get back to you as soon as possible.",
+    "formNewMsg": "Send New Message",
+    "formError": "An error occurred. Please try again."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "desc": "The page you are looking for does not exist or may have been moved.",
+    "back": "Return to Home"
+  }
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mermad.com.tr
+
+# Sitemaps
+Sitemap: https://mermad.com.tr/sitemap.xml

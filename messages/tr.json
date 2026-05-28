@@ -1,0 +1,224 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "activities": "Faaliyetler",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "cta": "Teklif Al"
+  },
+  "hero": {
+    "badge": "Türkiye Genelinde Faaliyet",
+    "line1": "YERALTININ",
+    "line2": "GÜÇ VE DEĞERİ",
+    "line3": "YÜZEYDE",
+    "desc": "MERMAD Madencilik olarak Türkiye'nin zengin maden kaynaklarını en güvenli, en sürdürülebilir yöntemlerle işliyor; ülke ekonomisine ve küresel pazarlara değer katıyoruz.",
+    "btnActivities": "Faaliyetlerimiz",
+    "btnContact": "İletişime Geç",
+    "scroll": "Keşfet"
+  },
+  "stats": {
+    "experience": "Yıllık Deneyim",
+    "sites": "Aktif Saha",
+    "capacity": "Ton Yıllık Kapasite",
+    "staff": "Uzman Personel"
+  },
+  "about": {
+    "tag": "Biz Kimiz",
+    "title1": "Türkiye'nin Yeraltı",
+    "title2": "Zenginliklerine",
+    "title3": "Köprü Kuruyoruz",
+    "p1": "MERMAD Madencilik, Türkiye'nin çeşitli bölgelerinde maden arama, çıkarma ve işleme faaliyetleri yürüten deneyimli bir madencilik şirketidir. Anadolu'nun zengin maden potansiyelini modern teknoloji ve uzman kadromuzla değerlendiriyoruz.",
+    "p2": "Kurulduğumuz günden bu yana güvenli çalışma ortamı, çevre bilinci ve yerel istihdama katkı ilkelerimizle hareket ediyoruz.",
+    "link": "Daha Fazla Bilgi",
+    "pillar1Title": "Güvenlik Önce",
+    "pillar1Desc": "İş sağlığı ve güvenliği her şeyin üzerinde tutuyoruz. Sıfır kaza hedefiyle çalışıyoruz.",
+    "pillar2Title": "Çevre Sorumluluğu",
+    "pillar2Desc": "Doğayı koruyarak çalışır, rehabilitasyon programlarıyla alanları eski haline getiririz.",
+    "pillar3Title": "Sektör Standartları",
+    "pillar3Desc": "Uluslararası madencilik standartlarına ve Türk mevzuatına tam uyum sağlarız."
+  },
+  "services": {
+    "tag": "Ne Yapıyoruz",
+    "title": "Uçtan Uca Madencilik Hizmetleri",
+    "link": "Tüm Faaliyetleri Gör",
+    "s1Title": "Maden Arama",
+    "s1Desc": "Jeolojik etüt, sismik araştırma ve sondaj çalışmalarıyla maden potansiyelini tespit ediyoruz.",
+    "s2Title": "Açık & Kapalı İşletme",
+    "s2Desc": "Hem açık ocak hem de yer altı yöntemleriyle güvenli ve verimli maden çıkarma gerçekleştiriyoruz.",
+    "s3Title": "Cevher İşleme",
+    "s3Desc": "Kırma, öğütme, flotasyon ve zenginleştirme tesislerimizle hammaddeyi ürüne dönüştürüyoruz.",
+    "s4Title": "Çevre Yönetimi",
+    "s4Desc": "Çevre etki değerlendirme, atık yönetimi ve saha rehabilitasyon programlarıyla doğayı koruyoruz.",
+    "s5Title": "Teknik Danışmanlık",
+    "s5Desc": "Maden mühendisliği, fizibilite ve proje yönetimi alanlarında kapsamlı danışmanlık sunuyoruz.",
+    "s6Title": "İş Güvenliği",
+    "s6Desc": "Risk değerlendirme, güvenlik eğitimleri ve acil müdahale planlarıyla sıfır kaza hedefliyoruz."
+  },
+  "map": {
+    "tag": "Faaliyet Bölgelerimiz",
+    "title1": "Türkiye Genelinde",
+    "title2": "Güçlü Varlık",
+    "label": "Türkiye Haritası"
+  },
+  "cta": {
+    "tag": "Birlikte Çalışalım",
+    "title1": "Projeniz İçin",
+    "title2": "Güvenilir Ortak",
+    "title3": "Arıyorsanız",
+    "desc": "Madencilik projeleriniz için deneyimli ekibimizle görüşün. İhtiyaçlarınıza özel çözümler üretmekten mutluluk duyarız.",
+    "btnContact": "İletişime Geç",
+    "btnProjects": "Projelerimiz"
+  },
+  "footer": {
+    "desc": "Türkiye'nin yeraltı zenginliklerini gün yüzüne çıkarıyoruz. Güvenli, sürdürülebilir ve sorumlu madencilik.",
+    "pages": "Sayfalar",
+    "activities": "Faaliyetlerimiz",
+    "actList": ["Maden Arama", "Maden Çıkarma", "Cevher İşleme", "Çevre Yönetimi", "Teknik Danışmanlık"],
+    "contact": "İletişim",
+    "address": "Mersin, Türkiye",
+    "rights": "Tüm hakları saklıdır.",
+    "slogan": "Türkiye'de üretiyoruz, dünyaya sunuyoruz."
+  },
+  "about_page": {
+    "tag": "Hakkımızda",
+    "title1": "Madenciliğin",
+    "title2": "Güvenilir Yüzü",
+    "desc": "2010'dan bu yana Türkiye'nin maden potansiyelini güvenli ve sürdürülebilir yöntemlerle işliyoruz.",
+    "missionTag": "Misyonumuz",
+    "missionTitle": "Değer Üretmek",
+    "missionDesc": "Türkiye'nin yer altı kaynaklarını modern teknoloji, deneyimli insan kaynağı ve sorumluluk bilinci çerçevesinde işleyerek ülkemizin kalkınmasına katkı sağlamak.",
+    "visionTag": "Vizyonumuz",
+    "visionTitle": "Lider Olmak",
+    "visionDesc": "Sürdürülebilirlik, inovasyon ve güvenlik standartlarımızla Türkiye'nin en güvenilir madencilik şirketi olmak.",
+    "valuesTag": "Temel Değerlerimiz",
+    "valuesTitle": "Bizi Biz Yapan Prensipler",
+    "historyTag": "Yolculuğumuz",
+    "historyTitle": "Tarihçemiz",
+    "values": [
+      {"title": "Güvenlik", "desc": "Her faaliyetimizde çalışan güvenliği en öncelikli konumuz."},
+      {"title": "Sürdürülebilirlik", "desc": "Doğal kaynakları gelecek nesillere aktarmak için sorumlulukla hareket ederiz."},
+      {"title": "Kalite", "desc": "Uluslararası standartlarda ürün ve hizmet sunmak temel taahhüdümüzdür."},
+      {"title": "Ekip Ruhu", "desc": "Güçlü bir ekip kültürü ve iş birliği anlayışıyla başarıya ulaşırız."},
+      {"title": "Verimlilik", "desc": "En az kaynak kullanımıyla maksimum değer üretmeyi hedefliyoruz."},
+      {"title": "İnovasyon", "desc": "Teknolojik gelişmeleri takip ederek sektörde öncü rol oynuyoruz."}
+    ],
+    "timeline": [
+      {"year": "2010", "event": "MERMAD Madencilik kuruldu, ilk etüt çalışmaları başladı."},
+      {"year": "2012", "event": "Orta Anadolu'da ilk maden ruhsatı alındı, üretime geçildi."},
+      {"year": "2015", "event": "Cevher işleme tesisi devreye alındı, kapasite 3 katına çıktı."},
+      {"year": "2018", "event": "ISO 14001 Çevre ve ISO 45001 İş Güvenliği sertifikaları alındı."},
+      {"year": "2021", "event": "5 yeni saha açıldı, personel sayısı 100'ü geçti."},
+      {"year": "2024", "event": "Uluslararası ihracat anlaşmaları imzalandı, yıllık 500K ton kapasiteye ulaşıldı."}
+    ]
+  },
+  "activities_page": {
+    "tag": "Faaliyetlerimiz",
+    "title1": "Uçtan Uca",
+    "title2": "Madencilik Çözümleri",
+    "desc": "Maden aramasından cevher işlemeye, çevre yönetiminden iş güvenliğine kadar tüm madencilik süreçlerini entegre şekilde yönetiyoruz.",
+    "scopeLabel": "Kapsam",
+    "activities": [
+      {
+        "title": "Maden Arama ve Etüt",
+        "desc": "Türkiye'nin jeolojik yapısını derinlemesine analiz ederek maden potansiyelini tespit ediyoruz.",
+        "details": ["Jeolojik haritalama", "Sismik araştırma", "Sondaj ve örnekleme", "Rezerv hesaplama", "Fizibilite raporu"]
+      },
+      {
+        "title": "Açık Ocak İşletmesi",
+        "desc": "Yüzeye yakın maden yataklarını açık ocak yöntemiyle verimli biçimde çıkarıyoruz.",
+        "details": ["Dekapaj operasyonları", "Patlatma planlaması", "Yükleme-nakliye sistemleri", "Şev stabilitesi", "Topografik izleme"]
+      },
+      {
+        "title": "Cevher İşleme",
+        "desc": "Çıkarılan ham madeni zenginleştirme tesislerimizde işleyerek pazar değeri yüksek ürünler elde ediyoruz.",
+        "details": ["Kırma ve öğütme", "Eleme ve sınıflandırma", "Flotasyon", "Manyetik ayırma", "Filtrasyon ve kurutma"]
+      },
+      {
+        "title": "Çevre Yönetimi",
+        "desc": "ISO 14001 sertifikalı çevre yönetim sistemimizle faaliyetlerimizin çevresel etkisini minimize ediyoruz.",
+        "details": ["Çevre Etki Değerlendirmesi", "Su kalitesi izleme", "Toz ve gürültü kontrolü", "Atık yönetimi", "Saha rehabilitasyonu"]
+      },
+      {
+        "title": "Teknik Danışmanlık",
+        "desc": "Deneyimli mühendis kadromuzla maden projeleri için kapsamlı teknik danışmanlık hizmetleri sunuyoruz.",
+        "details": ["Proje yönetimi", "Maden planlaması", "Maliyet optimizasyonu", "Lisans süreçleri", "Raporlama"]
+      },
+      {
+        "title": "İş Sağlığı ve Güvenliği",
+        "desc": "ISO 45001 standartlarına uygun iş güvenliği uygulamalarımızla sıfır kaza hedefiyle çalışıyoruz.",
+        "details": ["Risk değerlendirme", "Güvenlik eğitimleri", "Kişisel koruyucu donanım", "Acil müdahale planı", "Periyodik denetimler"]
+      }
+    ]
+  },
+  "projects_page": {
+    "tag": "Projeler",
+    "title1": "Türkiye'nin",
+    "title2": "Dört Bir Yanında",
+    "desc": "Egeden Karadeniz'e, Orta Anadolu'dan Güneydoğu'ya uzanan sahalarımızda Türkiye'nin maden zenginliğini değerlendiriyoruz.",
+    "typeLabel": "Tür",
+    "mineralLabel": "Mineral · Kapasite",
+    "startLabel": "Başlangıç",
+    "projects": [
+      {"name": "Orta Anadolu Krom Sahası", "location": "Kayseri, Türkiye", "status": "Aktif", "type": "Açık Ocak", "mineral": "Krom Cevheri", "capacity": "80.000 ton/yıl", "year": "2018", "desc": "Orta Anadolu'nun zengin krom yataklarında yürütülen bu proje, yıllık 80.000 ton üretim kapasitesiyle bölgenin en büyük krom işletmelerinden biridir."},
+      {"name": "Ege Bölgesi Bor Projesi", "location": "Kütahya, Türkiye", "status": "Aktif", "type": "Açık Ocak + İşleme", "mineral": "Bor Mineralleri", "capacity": "120.000 ton/yıl", "year": "2020", "desc": "Türkiye'nin dünya rezervlerinin %70'ini oluşturduğu bor madenlerinde faaliyet gösteren projemiz, yüksek saflıkta bor ürünleri ihraç etmektedir."},
+      {"name": "Karadeniz Bakır Arama", "location": "Artvin, Türkiye", "status": "Arama Aşaması", "type": "Maden Arama", "mineral": "Bakır", "capacity": "Belirleniyor", "year": "2023", "desc": "Karadeniz bölgesinin metalojenik açıdan zengin formasyonlarında yürütülen kapsamlı jeolojik etüt ve sondaj çalışmaları devam etmektedir."},
+      {"name": "Güneydoğu Fosfat Sahası", "location": "Mardin, Türkiye", "status": "Geliştirme", "type": "Açık Ocak", "mineral": "Fosfat", "capacity": "150.000 ton/yıl (hedef)", "year": "2022", "desc": "Tarım sektörüne gübre hammaddesi sağlayacak fosfat projesinde altyapı inşaatı ve ekipman kurulumu devam etmektedir."},
+      {"name": "Doğu Anadolu Demir Projesi", "location": "Erzincan, Türkiye", "status": "Tamamlandı", "type": "Açık Ocak", "mineral": "Demir Cevheri", "capacity": "200.000 ton/yıl", "year": "2014", "desc": "2014-2021 yılları arasında işletilen bu sahadan toplam 1,2 milyon ton demir cevheri çıkarılmış ve saha rehabilitasyonu tamamlanmıştır."},
+      {"name": "Ege Trona Madeni", "location": "Eskişehir, Türkiye", "status": "Aktif", "type": "Kapalı İşletme", "mineral": "Trona (Soda Minerali)", "capacity": "60.000 ton/yıl", "year": "2019", "desc": "Cam ve kimya sanayiinin temel hammaddesi olan trona minerali, yer altı galerilerinden çıkarılarak işleme tesisimizde rafine edilmektedir."}
+    ],
+    "statuses": {
+      "Aktif": "Active",
+      "Arama Aşaması": "Exploration",
+      "Geliştirme": "Development",
+      "Tamamlandı": "Completed"
+    }
+  },
+  "contact_page": {
+    "tag": "İletişim",
+    "title1": "Birlikte",
+    "title2": "Çalışalım",
+    "desc": "Madencilik projeleriniz için teklif almak, soru sormak veya iş birliği için ekibimizle iletişime geçin.",
+    "infoTitle": "İletişim Bilgileri",
+    "address": "Adres",
+    "addressVal": "Çankaya, Mersin, Türkiye",
+    "phone": "Telefon",
+    "phoneVal": "+90 (312) 000 00 00",
+    "email": "E-posta",
+    "emailVal": "info@mermad.com.tr",
+    "hours": "Çalışma Saatleri",
+    "hoursVal": "Pzt–Cum: 08:00–18:00",
+    "emergencyTitle": "Acil İletişim",
+    "emergencyDesc": "Saha acil durumları için 7/24 ulaşabileceğiniz acil hattımız:",
+    "emergencyPhone": "+90 532 000 00 00",
+    "formTitle": "Mesaj Gönderin",
+    "formName": "Ad Soyad",
+    "formNamePh": "Adınız Soyadınız",
+    "formEmail": "E-posta",
+    "formEmailPh": "ornek@sirket.com.tr",
+    "formPhone": "Telefon",
+    "formPhonePh": "+90 5__ ___ __ __",
+    "formSubject": "Konu",
+    "formSubjectPh": "Seçiniz",
+    "formSubjectOpts": [
+      {"value": "teklif", "label": "Teklif Talebi"},
+      {"value": "danismanlik", "label": "Danışmanlık"},
+      {"value": "isbirligi", "label": "İş Birliği"},
+      {"value": "istihdam", "label": "İstihdam"},
+      {"value": "diger", "label": "Diğer"}
+    ],
+    "formMessage": "Mesajınız",
+    "formMessagePh": "Projeniz, talebiniz veya sorularınız hakkında bilgi veriniz...",
+    "formSubmit": "Mesaj Gönder",
+    "formSending": "Gönderiliyor...",
+    "formSuccess": "Mesajınız İletildi!",
+    "formSuccessDesc": "En kısa sürede sizinle iletişime geçeceğiz.",
+    "formNewMsg": "Yeni Mesaj Gönder",
+    "formError": "Bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "desc": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "back": "Ana Sayfaya Dön"
+  }
+}
