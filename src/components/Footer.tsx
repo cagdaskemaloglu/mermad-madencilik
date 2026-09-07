@@ -48,7 +48,7 @@ export default function Footer() {
             <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
               {[
                 { icon: MapPin, val: t("address") },
-                { icon: Phone, val: "+90 (312) 000 00 00" },
+                { icon: Phone, val: "+90 532 066 89 92" },
                 { icon: Mail, val: "info@mermad.com.tr" },
               ].map((item, i) => (
                 <div key={i} style={{ display: "flex", alignItems: "flex-start", gap: "0.75rem" }}>
