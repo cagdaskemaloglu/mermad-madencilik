@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
@@ -47,7 +48,8 @@ export default function Navbar() {
     >
       <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "0 2rem", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
         {/* Logo */}
-        <Link href={`/${locale}`} style={{ textDecoration: "none" }}>
+        <Link href={`/${locale}`} style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: "0.6rem" }}>
+          <Image src="/logo.png" alt="Mermad Madencilik" width={44} height={32} style={{ height: "auto", width: "44px", objectFit: "contain" }} priority />
           <div style={{ display: "flex", flexDirection: "column", lineHeight: 1 }}>
             <span style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, fontSize: "1.6rem", letterSpacing: "0.15em", color: "#C9A84C" }}>MERMAD</span>
             <span style={{ fontFamily: "'Barlow', sans-serif", fontWeight: 300, fontSize: "0.55rem", letterSpacing: "0.35em", color: "#B5B5A8", textTransform: "uppercase", marginTop: "1px" }}>
